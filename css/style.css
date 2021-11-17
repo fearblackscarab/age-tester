@@ -1,0 +1,42 @@
+*{box-sizing: border-box;}
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: skyblue;
+    text-align: center;
+}
+
+.section{
+    margin: 0 auto;
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.dob{
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.checkbox-span{
+    display: block;
+    margin-top: 20px;
+}
+
+.submit{
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    display: block;    
+}
+
+.wohoo{
+    color: red;
+    font-size: 50px;
+}
